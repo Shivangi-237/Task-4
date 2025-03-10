@@ -38,3 +38,7 @@ Java (Core implementation and data handling)
 Apache Mahout (Collaborative filtering and similarity computation)
 SLF4J Logging (Structured logging of recommendations)
 This project showcases expertise in machine learning, recommendation systems, data processing, and Java-based application development, making it a strong addition to a resume in data science, artificial intelligence, or software engineering.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/98c3d6b9-1fa5-461d-bd15-06b81d4b11fd)
